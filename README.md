@@ -2,11 +2,9 @@
 home: true
 pageClass: home-page
 heroImage: /images/jeff-final.jpg
-actionText: Get Started →
-actionLink: /resume/
 features:
   - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
+    details: Self-driven software developer, with excellent interpersonal skills, outstanding work ethic, and proof-based problem-solving capabilities. Recognized team player seeking to leverage Java knowledge for software consulting work, helping companies become more efficient in their technological efforts.
   - title: Vue-Powered
     details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
   - title: Performant
