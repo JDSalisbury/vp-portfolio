@@ -1,5 +1,6 @@
 ---
 home: true
+pageClass: home-page
 heroImage: /images/jeff-final.jpg
 actionText: Get Started →
 actionLink: /resume/
