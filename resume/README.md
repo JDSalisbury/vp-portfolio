@@ -1,3 +1,9 @@
+---
+pageClass: resume-page
+---
+
 # Resume
 
-<embed src="/pdf/resume.pdf" width="830px" height="1110px">
+<div height="1120px">
+    <embed class="resume" src="/pdf/resume.pdf" width="830px" height="1120px">
+</div>
