@@ -2,8 +2,5 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
-  },
-  "dependencies": {
-    "vue-carousel": "^0.18.0"
   }
 }
