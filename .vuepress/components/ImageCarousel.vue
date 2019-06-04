@@ -1,17 +1,17 @@
 <template>
-  <div style="width: 400px; display:block; margin:0 auto;">
-    <carousel :per-page="1" :center-mode="true">
+  <div style="width: 60%; display:block; margin:0 auto;">
+    <carousel :per-page="1" :center-mode="true" adjustableHeight="true">
       <slide>
-        <img width="90%" src="/images/pp1.png">
+        <img src="/images/pp1.png">
       </slide>
       <slide>
-        <img width="90%" src="/images/pp2.png">
+        <img src="/images/pp2.png">
       </slide>
       <slide>
-        <img width="90%" src="/images/pp3.png">
+        <img src="/images/pp3.png">
       </slide>
       <slide>
-        <img width="90%" src="/images/pp4.png">
+        <img src="/images/pp4.png">
       </slide>
     </carousel>
   </div>
