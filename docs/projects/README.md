@@ -26,8 +26,6 @@ Vue | Vuex | Django | Python | MySQL | Docker</p>
 
 <br />
 
-<ImageCarousel />
-
 <p>Constructed a curb-side pick up application for The Broad St. Food Pantry. The Broad St. Food Pantry was unable to service some of there clients due to the hour long wait time. Our goal was to reduce the wait time to ten minutes so that people with children or people who dont have a secure form of transportion can quickly come in and get their food. Through TDD and Pair programing my team of six was able to get the wait time down to seven minutes. This application is currently in operation and is assisting 150+ patrons.
 
 Java | Thymeleaf | Spring | JavaScript | HTML/CSS | JPA | AJAX | Agile | Heroku | Travis CI | Coveralls | TDD </p>
