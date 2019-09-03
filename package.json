@@ -10,7 +10,9 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "vue": "^2.6.6"
+    "axios": "^0.19.0",
+    "vue": "^2.6.6",
+    "vue-wordcloud": "^1.1.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.4.0",
