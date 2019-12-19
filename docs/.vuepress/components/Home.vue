@@ -12,7 +12,12 @@
           <span>React/Redux | Vue/Vuex | Python/Django</span>
         </div>
         <div class="summary">
-          <p>Software developer, with excellent interpersonal skills, outstanding work ethic, and proof-based problem-solving capabilities. Recognized team player seeking to leverage knowledge to help companies become more efficient in their technological efforts.</p>
+          <p>
+            Software developer, with excellent interpersonal skills, outstanding
+            work ethic, and proof-based problem-solving capabilities. Recognized
+            team player seeking to leverage knowledge to help companies become
+            more efficient in their technological efforts.
+          </p>
         </div>
       </div>
       <div class="interests">
@@ -27,7 +32,7 @@
 export default {};
 </script>
 
-<style >
+<style>
 .avatar-div {
   position: relative;
   z-index: 1;
@@ -37,7 +42,7 @@ export default {};
 .avatar {
   display: block;
   width: 150px;
-  height: auto;
+  height: 100%;
   max-width: 150px;
   border-radius: 500rem;
 }
