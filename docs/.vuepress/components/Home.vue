@@ -38,10 +38,11 @@ export default {};
   z-index: 1;
   display: flex;
   justify-content: center;
+  margin-top: 50px;
 }
 .avatar {
   display: block;
-  width: 150px;
+  width: 175px;
   height: 100%;
   max-width: 150px;
   border-radius: 500rem;
