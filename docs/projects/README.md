@@ -5,6 +5,19 @@ sidebar: auto
 
 # Projects
 
+## Blog
+
+##### Blog Site for blogging things.
+
+![IMS Site](/images/pp5.png)
+
+<ProjectDescription 
+description="Using Vue and Vuex I implimented a small blog site. I don't know if I am the blogging type but I wanted to get a full webiste up and running with AWS running a docker container with my DRF API and using Django admin as a CMS. The DB is Mongo Atlas. This site is bringing together some of the fullstack webdev tools and skills I've learned."
+tools="Vue | Vuex | DRF | DJANGO | PYTHON | DOCKER | AWS | MONGO" 
+/>
+
+<br />
+
 ## Familiar
 
 ##### D&D Character sheet Manager.
@@ -40,11 +53,11 @@ tools="Java | Thymeleaf | Spring | JavaScript | HTML/CSS | JPA | AJAX | Agile | 
 ##### Inventory Management System
 
 ![IMS Site](/images/IMS.png)
+
 <ProjectDescription
 description='Full-Stack Inventory Managment System. Created to help "Fresh Time" Food Market keep track of there produce, and expiration dates. There old system was with pen and paper.'
 tools='Java | JavaScript | Html/CSS | H2 Database | Spring Boot'
  />
-
 <br />
 
 ## Tacticas
@@ -64,6 +77,7 @@ tools='Photoshop/Gimp'
 ##### Cat
 
 ![Sage](/images/Sage.jpeg)
+
 <ProjectDescription
 description="Cat owner. It takes a lot to own one of these creatures. I've successfully kept this small beast alive for about a two years now. The struggle is real. She barely cares about me."
 tools='Willpower | Diligence | Determination'
