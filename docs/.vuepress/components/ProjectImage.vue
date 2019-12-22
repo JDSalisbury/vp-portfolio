@@ -14,5 +14,9 @@ export default {
 p {
   display: flex;
   justify-content: center;
+  height: auto;
+}
+img {
+  max-width: 100%;
 }
 </style>
