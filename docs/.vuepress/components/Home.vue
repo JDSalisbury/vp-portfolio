@@ -11,6 +11,23 @@
         <div class="info">
           <span>React/Redux | Vue/Vuex | Python/Django</span>
         </div>
+        <br />
+        <a href="https://sourcerer.io/jdsalisbury"
+          ><img
+            src="https://img.shields.io/badge/Python-224%20commits-green.svg"
+            alt=""
+        /></a>
+        <a href="https://sourcerer.io/jdsalisbury"
+          ><img
+            src="https://img.shields.io/badge/JavaScript-350%20commits-green.svg"
+            alt=""
+        /></a>
+
+        <a href="https://sourcerer.io/jdsalisbury"
+          ><img
+            src="https://img.shields.io/badge/Java-276%20commits-green.svg"
+            alt=""
+        /></a>
         <div class="summary">
           <p>
             Software developer, with excellent interpersonal skills, outstanding
