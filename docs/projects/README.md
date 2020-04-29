@@ -5,6 +5,24 @@ sidebar: auto
 
 # Projects
 
+## MTGA Draft Value
+
+##### Javascript Scrape and value MTGA exported draft.
+
+<Center>
+
+![IMS Site](/images/mtg.png)
+
+</Center>
+
+<ProjectDescription 
+description="Using a generic express setup up. Created a web scraper and stole some info off the web. Using that info to find the value of Mtg arena exported list. The info is then being gathered to judge my ability to draft, and if a higher valued deck does better than a lower one. More info in the github readme."
+tools="Express | Cheerio | Javascript" 
+/>
+[Github to project...](https://github.com/JDSalisbury/scrape-time)
+
+<br />
+
 ## Blog
 
 ##### Blog Site for blogging things.
