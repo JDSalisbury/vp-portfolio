@@ -5,12 +5,13 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "Projects", link: "/projects/" },
-      { text: "Resume", link: "/resume/" },
+      // { text: "Resume", link: "/resume/" },
+      { text: "Sourcerer", link: "https://sourcerer.io/jdsalisbury" },
       { text: "Github", link: "https://github.com/JDSalisbury" },
       {
         text: "Linkedin",
-        link: "https://www.linkedin.com/in/jeffery-salisbury/"
-      }
-    ]
-  }
+        link: "https://www.linkedin.com/in/jeffery-salisbury/",
+      },
+    ],
+  },
 };
