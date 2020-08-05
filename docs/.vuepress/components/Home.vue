@@ -1,5 +1,7 @@
 <template>
   <div>
+    <particles-bg type="cobweb" :bg="true" />
+
     <div class="avatar-div">
       <img class="avatar" src="../public/images/noodz.jpg" />
     </div>
@@ -46,7 +48,13 @@
 </template>
 
 <script>
-export default {};
+import { ParticlesBg } from "particles-bg-vue";
+
+export default {
+  components: {
+    ParticlesBg,
+  },
+};
 </script>
 
 <style>
