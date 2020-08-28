@@ -1,7 +1,7 @@
 ---
 home: true
 pageClass: home-page
-description: "Software Developer"
+description: 'Lead Software Engineer'
 ---
 
 <!-- <WordCloud/> -->
