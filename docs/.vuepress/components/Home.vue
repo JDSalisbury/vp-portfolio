@@ -6,7 +6,7 @@
     <div class="card">
       <div class="bio">
         <div class="head">
-          <span>Software Developer</span>
+          <span>Lead Software Engineer</span>
         </div>
         <div class="info">
           <span>React/Redux | Vue/Vuex | Python/Django</span>
@@ -110,7 +110,7 @@ export default {};
 }
 
 .banner {
-  background-image: url("../public/images/space-banner.jpg");
+  background-image: url('../public/images/space-banner.jpg');
   padding: 1em 1.5em;
   border-top: 1px solid rgba(34, 36, 38, 0.1);
 }
