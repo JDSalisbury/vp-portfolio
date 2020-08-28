@@ -5,6 +5,27 @@ sidebar: auto
 
 # Projects
 
+## Scrolls & Scibbles
+
+##### Note taking app
+
+<Center>
+
+![IMS Site](/images/s&s.png)
+
+</Center>
+
+<ProjectDescription 
+description="Created an app to take notes to help play D&D online with friends. Didn't want to get too complicated so currently saving data to a txt file, and allowing users to upload said txt file. Future itterations will involve the ability to add your own tab layout, encrypting the txt files saved notes, and possibly adding a lil pizzaz."
+tools="Vue | Javascript" 
+/>
+
+[Start taking notes now!](https://scrolls-and-scribbles.vercel.app/)
+
+[Github to project...](https://github.com/JDSalisbury/vp-portfolio)
+
+<br />
+
 ## MTGA Draft Value
 
 ##### Javascript Scrape and value MTGA exported draft.
