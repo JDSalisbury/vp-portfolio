@@ -13,5 +13,5 @@ module.exports = {
         link: "https://www.linkedin.com/in/jeffery-salisbury/",
       },
     ],
-  },
+  }
 };

@@ -62,7 +62,8 @@ export default {};
   width: 175px;
   height: 100%;
   max-width: 150px;
-  border-radius: 500rem;
+  border-radius: 2rem;
+  box-shadow: 20px 14px 20px 0px #adadad;
 }
 
 .card {
