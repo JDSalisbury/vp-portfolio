@@ -5,7 +5,7 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "Projects", link: "/projects/" },
-      // { text: "Resume", link: "/resume/" },
+      { text: "About", link: "/about/" },
       { text: "Sourcerer", link: "https://sourcerer.io/jdsalisbury" },
       { text: "Github", link: "https://github.com/JDSalisbury" },
       {
